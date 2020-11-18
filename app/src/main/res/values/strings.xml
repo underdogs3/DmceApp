@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DmceApp</string>
+    <string name="search">Search</string>
+    <string name="help">help</string>
+    <string name="more">more</string>
+    <string name="refresh">refresh</string>
+    <string name="copy" >copy</string>
+</resources>
